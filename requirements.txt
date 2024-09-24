@@ -1,0 +1,7 @@
+dash==2.15.0
+fpdf==1.7.2
+numpy==2.1.0
+pandas==2.2.2
+plotly==5.19.0
+scipy==1.14.1
+sympy==1.12
